@@ -23,3 +23,4 @@ This repo contains my **step-by-step practice code** for learning C programming,
 
 
 
+![giphy](https://github.com/user-attachments/assets/1e930535-9fc9-4812-89cb-9aeb08a6786e)
